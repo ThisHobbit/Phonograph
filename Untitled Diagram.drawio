@@ -1,0 +1,37 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (X11; Linux x86_64; rv:147.0) Gecko/20100101 Firefox/147.0" version="29.3.2">
+  <diagram name="Page-1" id="cZl9ANhXHCDhTGh_omIE">
+    <mxGraphModel dx="872" dy="483" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="NWrh0GxSjGuOWYFedKlh-1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=light-dark(#FFFFFF,#FFE599);gradientColor=none;align=center;verticalAlign=top;fontStyle=1;" value="&lt;div&gt;&lt;blockquote&gt;&lt;blockquote&gt;&lt;span style=&quot;color: light-dark(rgb(0, 0, 0), rgb(0, 0, 0));&quot;&gt;Model&lt;/span&gt;&lt;/blockquote&gt;&lt;/blockquote&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="310" width="500" x="280" y="140" as="geometry" />
+        </mxCell>
+        <mxCell id="NWrh0GxSjGuOWYFedKlh-7" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=light-dark(#FFFFFF,#FFFFFF);strokeColor=light-dark(#000000,#000000);verticalAlign=top;labelBorderColor=none;perimeterSpacing=0;" value="&lt;b style=&quot;color: light-dark(rgb(0, 0, 0), rgb(0, 0, 0));&quot;&gt;DOMAIN&lt;/b&gt;" vertex="1">
+          <mxGeometry height="250" width="230" x="290" y="190" as="geometry" />
+        </mxCell>
+        <mxCell id="NWrh0GxSjGuOWYFedKlh-8" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=light-dark(#FFFFFF,#7EA6E0);strokeColor=light-dark(#000000,#000000);" value="" vertex="1">
+          <mxGeometry height="200" width="190" x="310" y="220" as="geometry" />
+        </mxCell>
+        <mxCell id="NWrh0GxSjGuOWYFedKlh-2" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=top;rounded=0;" value="&lt;div align=&quot;left&quot;&gt;&lt;span style=&quot;color: light-dark(rgb(0, 0, 0), rgb(0, 0, 0));&quot;&gt;- AbsCustomPlaylist.java&lt;br&gt;- Album.java&lt;br&gt;- Artist.java&lt;br&gt;- CategoryInfo.java&lt;br&gt;- Genre.java&lt;br&gt;- Playlist.java&lt;br&gt;- PlaylistSong.java&lt;br&gt;- Song.java&lt;/span&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="190" width="190" x="320" y="220" as="geometry" />
+        </mxCell>
+        <mxCell id="NWrh0GxSjGuOWYFedKlh-5" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=light-dark(#F8CECC,#CC99FF);strokeColor=#b85450;" value="&lt;span style=&quot;color: light-dark(rgb(0, 0, 0), rgb(0, 0, 0));&quot;&gt;Lyrics&lt;/span&gt;" vertex="1">
+          <mxGeometry height="40" width="65" x="420" y="360" as="geometry" />
+        </mxCell>
+        <mxCell id="NWrh0GxSjGuOWYFedKlh-6" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=light-dark(#F8CECC,#CC99FF);strokeColor=#b85450;" value="&lt;span style=&quot;color: light-dark(rgb(0, 0, 0), rgb(0, 0, 0));&quot;&gt;SmartPlaylist&lt;/span&gt;" vertex="1">
+          <mxGeometry height="40" width="75" x="330" y="360" as="geometry" />
+        </mxCell>
+        <mxCell id="NWrh0GxSjGuOWYFedKlh-10" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=light-dark(#FFFFFF,#FFFFFF);strokeColor=light-dark(#000000,#000000);verticalAlign=top;labelBorderColor=none;perimeterSpacing=0;" value="&lt;b style=&quot;color: light-dark(rgb(0, 0, 0), rgb(0, 0, 0));&quot;&gt;Services&lt;/b&gt;" vertex="1">
+          <mxGeometry height="100" width="230" x="527.5" y="190" as="geometry" />
+        </mxCell>
+        <mxCell id="NWrh0GxSjGuOWYFedKlh-9" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=light-dark(#F8CECC,#CC99FF);strokeColor=#b85450;" value="&lt;span style=&quot;color: light-dark(rgb(0, 0, 0), rgb(0, 0, 0));&quot;&gt;Loader&lt;/span&gt;" vertex="1">
+          <mxGeometry height="40" width="65" x="610" y="230" as="geometry" />
+        </mxCell>
+        <mxCell id="NWrh0GxSjGuOWYFedKlh-11" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" value="MediaStore (BD Android)" vertex="1">
+          <mxGeometry height="60" width="120" x="20" y="270" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
