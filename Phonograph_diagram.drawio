@@ -7,7 +7,7 @@
         <mxCell id="NWrh0GxSjGuOWYFedKlh-1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=light-dark(#FFFFFF,#FFE599);gradientColor=none;align=center;verticalAlign=top;fontStyle=1;" value="&lt;div&gt;&lt;blockquote&gt;&lt;blockquote&gt;&lt;span style=&quot;color: light-dark(rgb(0, 0, 0), rgb(0, 0, 0));&quot;&gt;Model&lt;/span&gt;&lt;/blockquote&gt;&lt;/blockquote&gt;&lt;/div&gt;" vertex="1">
           <mxGeometry height="310" width="500" x="280" y="140" as="geometry" />
         </mxCell>
-        <mxCell id="NWrh0GxSjGuOWYFedKlh-7" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=light-dark(#FFFFFF,#FFFFFF);strokeColor=light-dark(#000000,#000000);verticalAlign=top;labelBorderColor=none;perimeterSpacing=0;" value="&lt;b style=&quot;color: light-dark(rgb(0, 0, 0), rgb(0, 0, 0));&quot;&gt;DOMAIN&lt;/b&gt;" vertex="1">
+        <mxCell id="NWrh0GxSjGuOWYFedKlh-7" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=light-dark(#FFFFFF,#FFFFFF);strokeColor=light-dark(#000000,#000000);verticalAlign=top;labelBorderColor=none;perimeterSpacing=0;" value="&lt;b style=&quot;color: light-dark(rgb(0, 0, 0), rgb(0, 0, 0));&quot;&gt;Domain&lt;/b&gt;" vertex="1">
           <mxGeometry height="250" width="230" x="290" y="190" as="geometry" />
         </mxCell>
         <mxCell id="NWrh0GxSjGuOWYFedKlh-8" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=light-dark(#FFFFFF,#7EA6E0);strokeColor=light-dark(#000000,#000000);" value="" vertex="1">
@@ -29,13 +29,28 @@
           <mxGeometry height="40" width="65" x="610" y="230" as="geometry" />
         </mxCell>
         <mxCell id="NWrh0GxSjGuOWYFedKlh-11" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" value="MediaStore (BD Android)" vertex="1">
-          <mxGeometry height="60" width="120" x="800" y="220" as="geometry" />
+          <mxGeometry height="60" width="120" x="582.5" y="50" as="geometry" />
         </mxCell>
         <mxCell id="rkeLK6J0_KXCf-QZrjgA-1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=light-dark(#FFFFFF,#FFFFFF);strokeColor=light-dark(#000000,#000000);verticalAlign=top;labelBorderColor=none;perimeterSpacing=0;" value="&lt;b style=&quot;color: light-dark(rgb(0, 0, 0), rgb(0, 0, 0));&quot;&gt;Persistance&lt;/b&gt;" vertex="1">
           <mxGeometry height="110" width="160" x="560" y="320" as="geometry" />
         </mxCell>
         <mxCell id="rkeLK6J0_KXCf-QZrjgA-2" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=light-dark(#F8CECC,#CC99FF);strokeColor=#b85450;" value="&lt;span style=&quot;color: light-dark(rgb(0, 0, 0), rgb(0, 0, 0));&quot;&gt;Provider&lt;/span&gt;" vertex="1">
           <mxGeometry height="40" width="65" x="610" y="360" as="geometry" />
+        </mxCell>
+        <mxCell id="rkeLK6J0_KXCf-QZrjgA-3" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=light-dark(#FFFFFF,#FFE599);gradientColor=none;align=center;verticalAlign=top;fontStyle=1;" value="&lt;div&gt;&lt;blockquote&gt;&lt;blockquote&gt;&lt;span style=&quot;color: light-dark(rgb(0, 0, 0), rgb(0, 0, 0));&quot;&gt;Vue&lt;/span&gt;&lt;/blockquote&gt;&lt;/blockquote&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="310" width="350" x="800" y="140" as="geometry" />
+        </mxCell>
+        <mxCell id="rkeLK6J0_KXCf-QZrjgA-5" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=light-dark(#FFFFFF,#FFFFFF);strokeColor=light-dark(#000000,#000000);verticalAlign=top;labelBorderColor=none;perimeterSpacing=0;" value="&lt;b style=&quot;color: light-dark(rgb(0, 0, 0), rgb(0, 0, 0));&quot;&gt;Présentation des données&lt;/b&gt;" vertex="1">
+          <mxGeometry height="160" width="150" x="810" y="220" as="geometry" />
+        </mxCell>
+        <mxCell id="rkeLK6J0_KXCf-QZrjgA-6" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=light-dark(#FFFFFF,#FFFFFF);strokeColor=light-dark(#000000,#000000);verticalAlign=top;labelBorderColor=none;perimeterSpacing=0;" value="&lt;b style=&quot;color: light-dark(rgb(0, 0, 0), rgb(0, 0, 0));&quot;&gt;Gestion des événements utilisateurs&lt;/b&gt;" vertex="1">
+          <mxGeometry height="160" width="150" x="980" y="220" as="geometry" />
+        </mxCell>
+        <mxCell id="rkeLK6J0_KXCf-QZrjgA-7" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=light-dark(#F8CECC,#CC99FF);strokeColor=#b85450;" value="&lt;span style=&quot;color: light-dark(rgb(0, 0, 0), rgb(0, 0, 0));&quot;&gt;&amp;nbsp;UI (Activities, fragments), views, dialogs, widgets&lt;/span&gt;" vertex="1">
+          <mxGeometry height="90" width="100" x="835" y="260" as="geometry" />
+        </mxCell>
+        <mxCell id="rkeLK6J0_KXCf-QZrjgA-8" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=light-dark(#F8CECC,#CC99FF);strokeColor=#b85450;" value="&lt;span style=&quot;color: light-dark(rgb(0, 0, 0), rgb(0, 0, 0));&quot;&gt;Adapter, Glide&lt;/span&gt;" vertex="1">
+          <mxGeometry height="90" width="100" x="1005" y="260" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
