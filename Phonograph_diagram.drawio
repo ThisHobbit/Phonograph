@@ -13,25 +13,25 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="NWrh0GxSjGuOWYFedKlh-1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=light-dark(#FFFFFF,#FFE599);gradientColor=none;align=center;verticalAlign=top;fontStyle=1;" value="&lt;div&gt;&lt;blockquote&gt;&lt;blockquote&gt;&lt;span style=&quot;color: light-dark(rgb(0, 0, 0), rgb(0, 0, 0));&quot;&gt;Model&lt;/span&gt;&lt;/blockquote&gt;&lt;/blockquote&gt;&lt;/div&gt;" vertex="1">
-          <mxGeometry height="310" width="500" x="280" y="140" as="geometry" />
+          <mxGeometry height="310" width="500" y="120" as="geometry" />
         </mxCell>
         <mxCell id="NWrh0GxSjGuOWYFedKlh-7" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=light-dark(#FFFFFF,#FFFFFF);strokeColor=light-dark(#000000,#000000);verticalAlign=top;labelBorderColor=none;perimeterSpacing=0;" value="&lt;b style=&quot;color: light-dark(rgb(0, 0, 0), rgb(0, 0, 0));&quot;&gt;Domain&lt;/b&gt;" vertex="1">
-          <mxGeometry height="250" width="230" x="290" y="190" as="geometry" />
+          <mxGeometry height="250" width="230" x="10" y="170" as="geometry" />
         </mxCell>
         <mxCell id="NWrh0GxSjGuOWYFedKlh-8" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=light-dark(#FFFFFF,#7EA6E0);strokeColor=light-dark(#000000,#000000);" value="" vertex="1">
-          <mxGeometry height="200" width="190" x="310" y="220" as="geometry" />
+          <mxGeometry height="200" width="190" x="30" y="200" as="geometry" />
         </mxCell>
         <mxCell id="NWrh0GxSjGuOWYFedKlh-2" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=top;rounded=0;" value="&lt;div align=&quot;left&quot;&gt;&lt;span style=&quot;color: light-dark(rgb(0, 0, 0), rgb(0, 0, 0));&quot;&gt;- AbsCustomPlaylist.java&lt;br&gt;- Album.java&lt;br&gt;- Artist.java&lt;br&gt;- CategoryInfo.java&lt;br&gt;- Genre.java&lt;br&gt;- Playlist.java&lt;br&gt;- PlaylistSong.java&lt;br&gt;- Song.java&lt;/span&gt;&lt;/div&gt;" vertex="1">
-          <mxGeometry height="190" width="190" x="320" y="220" as="geometry" />
+          <mxGeometry height="190" width="190" x="40" y="200" as="geometry" />
         </mxCell>
         <mxCell id="NWrh0GxSjGuOWYFedKlh-5" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=light-dark(#F8CECC,#CC99FF);strokeColor=#b85450;" value="&lt;span style=&quot;color: light-dark(rgb(0, 0, 0), rgb(0, 0, 0));&quot;&gt;Lyrics&lt;/span&gt;" vertex="1">
-          <mxGeometry height="40" width="65" x="420" y="360" as="geometry" />
+          <mxGeometry height="40" width="65" x="140" y="340" as="geometry" />
         </mxCell>
         <mxCell id="NWrh0GxSjGuOWYFedKlh-6" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=light-dark(#F8CECC,#CC99FF);strokeColor=#b85450;" value="&lt;span style=&quot;color: light-dark(rgb(0, 0, 0), rgb(0, 0, 0));&quot;&gt;SmartPlaylist&lt;/span&gt;" vertex="1">
-          <mxGeometry height="40" width="75" x="330" y="360" as="geometry" />
+          <mxGeometry height="40" width="75" x="50" y="340" as="geometry" />
         </mxCell>
         <mxCell id="NWrh0GxSjGuOWYFedKlh-10" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=light-dark(#FFFFFF,#FFFFFF);strokeColor=light-dark(#000000,#000000);verticalAlign=top;labelBorderColor=none;perimeterSpacing=0;" value="&lt;b style=&quot;color: light-dark(rgb(0, 0, 0), rgb(0, 0, 0));&quot;&gt;Services&lt;/b&gt;" vertex="1">
-          <mxGeometry height="110" width="160" x="560" y="190" as="geometry" />
+          <mxGeometry height="110" width="160" x="280" y="170" as="geometry" />
         </mxCell>
         <mxCell id="rkeLK6J0_KXCf-QZrjgA-32" edge="1" parent="1" source="NWrh0GxSjGuOWYFedKlh-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" target="NWrh0GxSjGuOWYFedKlh-11">
           <mxGeometry relative="1" as="geometry" />
@@ -42,16 +42,16 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="NWrh0GxSjGuOWYFedKlh-9" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=light-dark(#F8CECC,#CC99FF);strokeColor=#b85450;" value="&lt;span style=&quot;color: light-dark(rgb(0, 0, 0), rgb(0, 0, 0));&quot;&gt;Loader&lt;/span&gt;" vertex="1">
-          <mxGeometry height="40" width="65" x="610" y="230" as="geometry" />
+          <mxGeometry height="40" width="65" x="330" y="210" as="geometry" />
         </mxCell>
         <mxCell id="NWrh0GxSjGuOWYFedKlh-11" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" value="MediaStore (BD Android)" vertex="1">
-          <mxGeometry height="60" width="120" x="582.5" y="20" as="geometry" />
+          <mxGeometry height="60" width="120" x="302.5" as="geometry" />
         </mxCell>
         <mxCell id="rkeLK6J0_KXCf-QZrjgA-1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=light-dark(#FFFFFF,#FFFFFF);strokeColor=light-dark(#000000,#000000);verticalAlign=top;labelBorderColor=none;perimeterSpacing=0;" value="&lt;b style=&quot;color: light-dark(rgb(0, 0, 0), rgb(0, 0, 0));&quot;&gt;Persistance&lt;/b&gt;" vertex="1">
-          <mxGeometry height="110" width="160" x="560" y="320" as="geometry" />
+          <mxGeometry height="110" width="160" x="280" y="300" as="geometry" />
         </mxCell>
         <mxCell id="rkeLK6J0_KXCf-QZrjgA-2" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=light-dark(#F8CECC,#CC99FF);strokeColor=#b85450;" value="&lt;span style=&quot;color: light-dark(rgb(0, 0, 0), rgb(0, 0, 0));&quot;&gt;Provider&lt;/span&gt;" vertex="1">
-          <mxGeometry height="40" width="65" x="610" y="360" as="geometry" />
+          <mxGeometry height="40" width="65" x="330" y="340" as="geometry" />
         </mxCell>
         <mxCell id="rkeLK6J0_KXCf-QZrjgA-25" edge="1" parent="1" source="rkeLK6J0_KXCf-QZrjgA-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0;entryDx=0;entryDy=0;strokeColor=light-dark(#000000,#33FF33);startArrow=classic;startFill=1;" target="rkeLK6J0_KXCf-QZrjgA-9">
           <mxGeometry relative="1" as="geometry" />
@@ -62,24 +62,24 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="rkeLK6J0_KXCf-QZrjgA-3" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=light-dark(#FFFFFF,#FFE599);gradientColor=none;align=center;verticalAlign=top;fontStyle=1;" value="&lt;div&gt;&lt;blockquote&gt;&lt;blockquote&gt;&lt;span style=&quot;color: light-dark(rgb(0, 0, 0), rgb(0, 0, 0));&quot;&gt;Vue&lt;/span&gt;&lt;/blockquote&gt;&lt;/blockquote&gt;&lt;/div&gt;" vertex="1">
-          <mxGeometry height="310" width="350" x="800" y="140" as="geometry" />
+          <mxGeometry height="310" width="320" x="520" y="120" as="geometry" />
         </mxCell>
         <mxCell id="rkeLK6J0_KXCf-QZrjgA-5" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=light-dark(#FFFFFF,#FFFFFF);strokeColor=light-dark(#000000,#000000);verticalAlign=top;labelBorderColor=none;perimeterSpacing=0;" value="&lt;b style=&quot;color: light-dark(rgb(0, 0, 0), rgb(0, 0, 0));&quot;&gt;Présentation des données&lt;/b&gt;" vertex="1">
-          <mxGeometry height="160" width="150" x="810" y="220" as="geometry" />
+          <mxGeometry height="140" width="140" x="530" y="200" as="geometry" />
         </mxCell>
         <mxCell id="rkeLK6J0_KXCf-QZrjgA-6" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=light-dark(#FFFFFF,#FFFFFF);strokeColor=light-dark(#000000,#000000);verticalAlign=top;labelBorderColor=none;perimeterSpacing=0;" value="&lt;b style=&quot;color: light-dark(rgb(0, 0, 0), rgb(0, 0, 0));&quot;&gt;Liens&lt;/b&gt;" vertex="1">
-          <mxGeometry height="160" width="150" x="980" y="220" as="geometry" />
+          <mxGeometry height="140" width="130" x="700" y="200" as="geometry" />
         </mxCell>
         <mxCell id="rkeLK6J0_KXCf-QZrjgA-7" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=light-dark(#F8CECC,#CC99FF);strokeColor=#b85450;" value="&lt;span style=&quot;color: light-dark(rgb(0, 0, 0), rgb(0, 0, 0));&quot;&gt;&amp;nbsp;UI (Activities, fragments), views, dialogs, widgets, glide&lt;/span&gt;" vertex="1">
-          <mxGeometry height="90" width="100" x="835" y="260" as="geometry" />
+          <mxGeometry height="90" width="100" x="550" y="235" as="geometry" />
         </mxCell>
         <mxCell id="rkeLK6J0_KXCf-QZrjgA-8" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=light-dark(#F8CECC,#CC99FF);strokeColor=#b85450;" value="&lt;span style=&quot;color: light-dark(rgb(0, 0, 0), rgb(0, 0, 0));&quot;&gt;Adapter, Loader&lt;/span&gt;" vertex="1">
-          <mxGeometry height="90" width="100" x="1005" y="260" as="geometry" />
+          <mxGeometry height="90" width="100" x="715" y="235" as="geometry" />
         </mxCell>
         <mxCell id="rkeLK6J0_KXCf-QZrjgA-30" edge="1" parent="1" source="rkeLK6J0_KXCf-QZrjgA-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="NWrh0GxSjGuOWYFedKlh-1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="420" y="660" />
+              <mxPoint x="140" y="640" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -89,19 +89,19 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="rkeLK6J0_KXCf-QZrjgA-9" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=light-dark(#FFFFFF,#FFE599);gradientColor=none;align=center;verticalAlign=top;fontStyle=1;" value="&lt;div&gt;&lt;blockquote&gt;&lt;blockquote&gt;&lt;span style=&quot;color: light-dark(rgb(0, 0, 0), rgb(0, 0, 0));&quot;&gt;&amp;nbsp;Contrôleur&lt;/span&gt;&lt;/blockquote&gt;&lt;/blockquote&gt;&lt;/div&gt;" vertex="1">
-          <mxGeometry height="100" width="380" x="540" y="610" as="geometry" />
+          <mxGeometry height="100" width="380" x="260" y="590" as="geometry" />
         </mxCell>
         <mxCell id="rkeLK6J0_KXCf-QZrjgA-11" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=light-dark(#F8CECC,#CC99FF);strokeColor=#b85450;" value="&lt;span style=&quot;color: light-dark(rgb(0, 0, 0), rgb(0, 0, 0));&quot;&gt;Activities&lt;/span&gt;" vertex="1">
-          <mxGeometry height="40" width="82.5" x="738.75" y="650" as="geometry" />
+          <mxGeometry height="40" width="82.5" x="458.75" y="630" as="geometry" />
         </mxCell>
         <mxCell id="rkeLK6J0_KXCf-QZrjgA-12" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=light-dark(#F8CECC,#CC99FF);strokeColor=#b85450;" value="&lt;span style=&quot;color: light-dark(rgb(0, 0, 0), rgb(0, 0, 0));&quot;&gt;Fragments&lt;/span&gt;" vertex="1">
-          <mxGeometry height="40" width="85" x="646.25" y="650" as="geometry" />
+          <mxGeometry height="40" width="85" x="366.25" y="630" as="geometry" />
         </mxCell>
         <mxCell id="rkeLK6J0_KXCf-QZrjgA-13" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=light-dark(#F8CECC,#CC99FF);strokeColor=#b85450;" value="&lt;span style=&quot;color: light-dark(rgb(0, 0, 0), rgb(0, 0, 0));&quot;&gt;Interfaces/eventListener&lt;/span&gt;" vertex="1">
-          <mxGeometry height="40" width="80" x="835" y="650" as="geometry" />
+          <mxGeometry height="40" width="80" x="555" y="630" as="geometry" />
         </mxCell>
         <mxCell id="rkeLK6J0_KXCf-QZrjgA-14" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=light-dark(#F8CECC,#CC99FF);strokeColor=#b85450;" value="&lt;span style=&quot;color: light-dark(rgb(0, 0, 0), rgb(0, 0, 0));&quot;&gt;MusicService&lt;/span&gt;" vertex="1">
-          <mxGeometry height="40" width="80" x="560" y="620" as="geometry" />
+          <mxGeometry height="40" width="80" x="280" y="600" as="geometry" />
         </mxCell>
         <mxCell id="rkeLK6J0_KXCf-QZrjgA-20" edge="1" parent="1" source="rkeLK6J0_KXCf-QZrjgA-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;strokeColor=light-dark(#000000,#33FF33);" target="rkeLK6J0_KXCf-QZrjgA-9">
           <mxGeometry relative="1" as="geometry" />
@@ -120,7 +120,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="rkeLK6J0_KXCf-QZrjgA-15" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=light-dark(#FFFFFF,#FFE599);gradientColor=none;align=center;verticalAlign=middle;fontStyle=1;" value="&lt;div&gt;&lt;blockquote&gt;&lt;blockquote&gt;&lt;span style=&quot;color: light-dark(rgb(0, 0, 0), rgb(0, 0, 0));&quot;&gt;Observateur&lt;/span&gt;&lt;/blockquote&gt;&lt;/blockquote&gt;&lt;/div&gt;" vertex="1">
-          <mxGeometry height="40" width="195" x="536.25" y="500" as="geometry" />
+          <mxGeometry height="40" width="195" x="256.25" y="480" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
